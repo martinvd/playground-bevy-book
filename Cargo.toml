@@ -1,5 +1,5 @@
 [package]
-name = "bevy-test"
+name = "playground-bevy-book"
 version = "0.1.0"
 edition = "2021"
 

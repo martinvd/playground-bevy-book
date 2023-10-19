@@ -1,7 +1,7 @@
-# bevy-test
+# playground-bevy-book
 
-Experimentation with the [Bevy game engine](https://bevyengine.org/).
+Trying out the [Bevy](https://bevyengine.org/) game engine.
 
-## License
+## Links
 
-MIT © [Martin van Driel](https://github.com/martinvd)
+- [The Bevy Book](https://bevyengine.org/learn/book/introduction/)
